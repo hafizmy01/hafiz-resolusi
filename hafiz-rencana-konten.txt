@@ -9,6 +9,7 @@ RENCANA KONTEN HAFIZ
 - LARAVEL
   * laravel 8.2
 - MYSQL
+  * phpmyadmin
 - NODE JS
 - FRAMEWORK JS
   * Angular
