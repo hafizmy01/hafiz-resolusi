@@ -10,5 +10,6 @@ RENCANA KONTEN HAFIZ
   * laravel 8.2
 - MYSQL
 - NODE JS
-- React JS
- 
+- FRAMEWORK JS
+  * Angular
+  * React JS
