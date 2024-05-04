@@ -2,3 +2,5 @@ HAFIZ RESOLUSI
 - belajar coding setip hari
 - belajar new tech code / stack setiap bulan
 - upload projek / web app setiap minggu
+- membuat todolist app
+- membuat webapp komik / manga
