@@ -4,6 +4,7 @@ RENCANA KONTEN HAFIZ
   * codeigniter
     ^ CodeIgniter4
   * Symfony
+    ^ Symfony 7.0
 - DATA STRUCTURE & ALGORITHM 
 - LARAVEL
   * laravel 8.2
