@@ -1,0 +1,8 @@
+RENCANA KONTEN HAFIZ
+
+- PHP MVC
+  * codeigniter
+  * Symfony
+- LARAVEL
+- MYSQL
+- NODE JS
