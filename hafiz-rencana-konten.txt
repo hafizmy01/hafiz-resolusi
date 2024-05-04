@@ -2,8 +2,13 @@ RENCANA KONTEN HAFIZ
 
 - PHP MVC
   * codeigniter
+    ^ CodeIgniter4
   * Symfony
+    ^ Symfony 7.0
 - DATA STRUCTURE & ALGORITHM 
 - LARAVEL
+  * laravel 8.2
 - MYSQL
 - NODE JS
+- React JS
+ 
