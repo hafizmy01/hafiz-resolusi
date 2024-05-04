@@ -3,6 +3,7 @@ RENCANA KONTEN HAFIZ
 - PHP MVC
   * codeigniter
   * Symfony
+- DATA STRUCTURE & ALGORITHM 
 - LARAVEL
 - MYSQL
 - NODE JS
